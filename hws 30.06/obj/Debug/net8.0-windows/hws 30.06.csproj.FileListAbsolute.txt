@@ -1,0 +1,21 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\bin\Debug\net8.0-windows\hws 30.06.exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\bin\Debug\net8.0-windows\hws 30.06.deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\bin\Debug\net8.0-windows\hws 30.06.runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\bin\Debug\net8.0-windows\hws 30.06.dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\bin\Debug\net8.0-windows\hws 30.06.pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\App.g.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06_MarkupCompile.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06_MarkupCompile.lref
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\MainWindow.baml
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.g.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\refint\hws 30.06.dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\hws 30.06.genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WPF\hws 30.06\hws 30.06\obj\Debug\net8.0-windows\ref\hws 30.06.dll
